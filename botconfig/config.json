@@ -1,0 +1,29 @@
+{
+   "token": "OTE4MTM3NjMwOTUxMTA4NjQ4.YbC4TQ.IsYsuyjrejcB1hC0d_UJUAiQico",
+   "prefix": "$",
+   "CHANNEL_WELCOME": "887063590274732133",
+   "ROLES_WELCOME": ["887066312621322322"],
+   "youtubeAPI": "AIzaSyAkShwlSFKECL2SHwSSa-9ZEt5giW6jZJI",
+   "ownerIDS": [
+      "539988322056142859"
+   ],
+   "status": {
+      "text": "{prefix}help || ThorOp",
+      "text2": "Made By ThorOp",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "ThorOp"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "9ff62c2bafbd46689ee035771c3f4a9f",
+      "clientSecret": "b3f54f33f3cb4bb3ae630c92a134d8dc"
+   }
+}
